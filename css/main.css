@@ -105,7 +105,7 @@ li {
     transition: all 0.3s ease;
 } 
 #header {
-    background-image: url(/images/header.jpeg);
+    background-image: url(../images/header.jpeg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
